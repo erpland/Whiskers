@@ -1,5 +1,7 @@
 React.JS Whiksey Store Demo With Admin Mangment Page.
-Using localstorage to save data for now.
+
+Using Functional Components and Hooks 
+Using Localstorage as server mockup
 Link in the description.
 
 
