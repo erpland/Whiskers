@@ -2,6 +2,7 @@ React.JS Whiksey Store Demo With Admin Mangment Page.
 
 Using Functional Components and Hooks.
 Using Localstorage as server mockup.
+Responsiveness was not requierd.
 
 Link in the description.
 
