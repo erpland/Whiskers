@@ -1,3 +1,8 @@
+React.JS Whiksey Store Demo With Admin Mangment Page.
+Using localstorage to save data for now.
+Link in the description.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
